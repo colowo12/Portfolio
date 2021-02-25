@@ -19,7 +19,7 @@ export default class Main extends Component {
     this.state = {
       open: false,
     };
-
+    //testing
     this.setOpen = this.setOpen.bind(this);
   }
 
